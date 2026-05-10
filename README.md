@@ -8,7 +8,7 @@ A multi-threaded course registration simulator built in C using POSIX threads. E
 
 | Name | Roll Number |
 |---|---|
-| Roay Muhammad Abdullah | 24F-0570 |
+| Roy Muhammad Abdullah | 24F-0570 |
 | Muhammad Subhan Yousaf | 24F-0820 |
 | Abdul Hayee Kamran | 24F-0596 |
 
